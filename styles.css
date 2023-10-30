@@ -1,0 +1,16 @@
+.container-sm {
+    display:flex;
+    justify-content: center;
+}
+
+.row {
+    padding: 75px;
+}
+
+body {
+    background-image: url(https://r4.wallpaperflare.com/wallpaper/655/849/315/science-fiction-star-citizen-video-games-pc-gaming-wallpaper-a8d66dc840503ce8302ca15e08e2f4ba.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-attachment: fixed; 
+}
